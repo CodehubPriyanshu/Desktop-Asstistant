@@ -45,8 +45,10 @@ Make sure Python 3.10.7 is installed, then run:
 Activate the virtual environment:
 Windows: jarvis_env\Scripts\activate
 Linux/macOS: source jarvis_env/bin/activate
+
 2️⃣ Install Dependencies
 # pip install -r requirements.txt
 3️⃣ Run the Desktop Assistant
 python main.py
 # 📸 Screenshots
+![Screenshot 2025-02-01 194226](https://github.com/user-attachments/assets/6ae45c69-67cd-4ee7-880a-34f47f9f5fe3)
